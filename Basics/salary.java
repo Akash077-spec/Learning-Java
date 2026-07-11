@@ -13,7 +13,7 @@ public class salary {
         yearlySalary= num*12;
         System.out.println("Yearly Salary = "+yearlySalary );
 
-
+// salary example
 
     }
     
