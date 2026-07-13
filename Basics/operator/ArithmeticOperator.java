@@ -10,6 +10,8 @@ public class ArithmeticOperator {
         int multiplication = a * b;
         int division = a / b;
         int modulus = a % b;
+        // int x = 8;
+        // boolean z=x+4;//Airthmetic operator cant work with boolean.
         System.out.println(addition);
         System.out.println(subtraction);
         System.out.println(multiplication);
