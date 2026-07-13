@@ -2,6 +2,7 @@ package Basics.excersize;
 import java.util.Scanner;
 public class Begineer03 {
     public static void main (String[] args){
+        // Swapping two number
         System.out.println("===Swap two number===");
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter first number");
