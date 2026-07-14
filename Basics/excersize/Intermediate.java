@@ -24,7 +24,7 @@ public class Intermediate {
         double cgpa = percentage / 9.5f;
         System.out.println("==========================");
         System.out.println("       STUDENT RESULT        ");
-         System.out.println("==========================" + "\n");
+        System.out.println("==========================" + "\n");
         System.out.println("Name        : " + name);
         System.out.println("Roll Number : " + rollNumber);
         System.out.println();// used foe extra space or gap between two line
