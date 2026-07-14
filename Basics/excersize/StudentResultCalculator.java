@@ -2,7 +2,8 @@ package Basics.excersize;
 
 import java.util.Scanner;
 
-public class Intermediate {
+public class StudentResultCalculator {
+    //Student  result calculator
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Name");
