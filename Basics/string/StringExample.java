@@ -22,6 +22,17 @@ public class StringExample{
        //name start with
        System.out.println(st.startsWith("ak"));
        System.out.println(st.indexOf(2));
+       // String
+// A String stores a sequence of characters.
+// String uses double quotes (" ").
+// Example:
+// String name = "Akash";
+
+// char
+// A char stores only one character.
+// char uses single quotes (' ').
+// Example:
+// char grade = 'A';
 
     }
 }
