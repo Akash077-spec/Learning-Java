@@ -1,4 +1,4 @@
-package Basics.chapter2;
+package Basics.datatype;
 
 public class practice02 {
     public static void main(String[] args) {

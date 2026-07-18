@@ -1,4 +1,4 @@
-package Basics.chapter1;
+package Basics.variables;
 import java.util.Scanner;
 public class kilometer {
     public static void main(String[] args){

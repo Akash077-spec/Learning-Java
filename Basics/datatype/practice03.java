@@ -1,4 +1,4 @@
-package Basics.chapter2;
+package Basics.datatype;
 import java.util.Scanner;
 
 public class practice03 {
