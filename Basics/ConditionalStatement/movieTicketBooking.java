@@ -11,8 +11,8 @@ public class movieTicketBooking {
         sc.nextLine();
         if (age >= 18) {
             System.out.print("Do you have a valid card?(yes/no) : ");
-            String hasValidCrd = sc.nextLine();
-            if (hasValidCrd.equalsIgnoreCase("yes")) {
+            String hasValidCard = sc.nextLine();
+            if (hasValidCard.equalsIgnoreCase("yes")) {
                 System.out.print("Enter the number of ticket : ");
                 int ticket = sc.nextInt();
                 if (ticket <= 5) {
