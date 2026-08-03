@@ -12,7 +12,7 @@ public class sumNaturalNo {
         while (i <= num) {
             sum = i + sum;
             i++;
-            System.out.println("sum = " + sum);
-        }
+           
+        } System.out.println("sum = " + sum);
     }
 }
