@@ -1,6 +1,7 @@
 package Basics.pattern;
 
 public class FullPyramid {
+    // full pyramid
     public static void main(String [] args){
         for(int row =1;row<=5;row++){
             for(int space=1;space<=5-row;space++){
