@@ -5,7 +5,10 @@ public class RevisionQuestion4 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Mark : ");
         int mark=sc.nextInt();
-        if(mark>=90){
+        if(mark<0||mark>100){
+            System.out.println("Enter valid number");
+        }
+        else if(mark>=90){
             System.out.println("Grade A ");
         }else if(mark>=80)
         {
@@ -19,6 +22,6 @@ public class RevisionQuestion4 {
             System.out.println("Fail");
         }
         sc.close();
-    }
+    }}
     
-}
+
