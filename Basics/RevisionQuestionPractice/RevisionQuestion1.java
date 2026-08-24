@@ -2,6 +2,7 @@ package Basics.RevisionQuestionPractice;
 
 public class RevisionQuestion1 {
     public static void main(String[]args){
+        // Revision 1: Variables & Data Types
         String name= "Akash";
         int age= 22;
         float CGPA= 8.5f;

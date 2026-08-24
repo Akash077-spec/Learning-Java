@@ -2,6 +2,7 @@ package Basics.RevisionQuestionPractice;
 import java.util.Scanner;
 public class RevisionQuestion3 {
     public static void main(String[]args){
+        //Revision Topic 3: Operators
         Scanner sc = new Scanner(System.in);
         System.out.print("First number : ");
         int num1=sc.nextInt();

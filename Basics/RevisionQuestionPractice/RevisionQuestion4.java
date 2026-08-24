@@ -2,6 +2,7 @@ package Basics.RevisionQuestionPractice;
 import java.util.Scanner;
 public class RevisionQuestion4 {
     public static void main(String[]args){
+        //Revision Topic 4: if, if-else, else-if
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Mark : ");
         int mark=sc.nextInt();

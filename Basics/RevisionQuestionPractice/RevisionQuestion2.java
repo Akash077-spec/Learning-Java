@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class RevisionQuestion2 {
     public static void main(String [] args){
+        //Revision Topic 2: Scanner / User Input
         Scanner sc= new Scanner(System.in);
         System.out.println("======== STUDENTS DETAILS ========");
         System.out.print("Name : ");
