@@ -2,7 +2,8 @@ package Basics.MixedQuestion;
 import java.util.Scanner;
 public class MixedQuestion2 {
     public static void main(String[]args){
-        🧩 Mixed Question 2 — Sum of Even Numbers
+        //🧩 Mixed Question 2 — Sum of Even Numbers
+        
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter number : ");
         int num=sc.nextInt();
