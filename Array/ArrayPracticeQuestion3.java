@@ -11,12 +11,15 @@ public class ArrayPracticeQuestion3 {
         System.out.println("Array elements are : ");
         for(int i=0;i<arr.length;i++){
             System.out.println(arr[i]);
-        }int sum=0;
+        }double sum=0;
         for(int i=0;i<arr.length;i++){
             sum=sum+arr[i];
 
         }
         System.out.println("Sum of array are : "+sum);
+        double average=(double) sum/arr.length;
+        System.out.println("Average is : " + average);
+
         sc.close();
     }
 }
